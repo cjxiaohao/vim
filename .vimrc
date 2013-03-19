@@ -1,6 +1,6 @@
 autocmd! bufwritepost .vimrc source %
 
-" Pathogen plugin
+" Conflict
 call pathogen#runtime_append_all_bundles()
 
 
